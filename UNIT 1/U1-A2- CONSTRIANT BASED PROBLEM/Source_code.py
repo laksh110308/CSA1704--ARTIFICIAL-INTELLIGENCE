@@ -1,8 +1,8 @@
 # ==========================================================
 # ARTIFICIAL INTELLIGENCE - ASSESSMENT 2
 # Python Programs for Questions 1 to 3
-# Name : KRISHA MEENATCHI M
-# Reg No : 192511338
+# Name : LAKSHITHA SREE.K 
+# Reg No : 192511336
 # ==========================================================
 
 
